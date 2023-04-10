@@ -15,9 +15,6 @@ def song_markup(_, vidid):
         ],
         [
             InlineKeyboardButton(
-                text="قناة البوت ❄", url=f"https://t.me/ah07v",
-            ),
-            InlineKeyboardButton(
                 text=_["☆ اغلاق ☆"], callback_data="close"
             ),
         ],
