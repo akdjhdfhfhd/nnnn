@@ -11,7 +11,6 @@ from config import (AUTO_DOWNLOADS_CLEAR, BANNED_USERS,
                     TELEGRAM_AUDIO_URL, TELEGRAM_VIDEO_URL,
                     MUSIC_BOT_NAME, adminlist)
 from AnonX import YouTube, app
-from AnonX.core.call import Anon
 from AnonX.misc import SUDOERS, db
 from AnonX.utils import bot_sys_stats
 from AnonX.utils.database import (
