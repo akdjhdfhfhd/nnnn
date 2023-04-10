@@ -3,7 +3,6 @@ from datetime import datetime
 
 import config
 from AnonX import app
-from AnonX.core.call import Anon, autoend
 from AnonX.utils.database import (get_client, is_active_chat,
                                        is_autoend)
 
